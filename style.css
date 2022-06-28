@@ -106,7 +106,7 @@ td:nth-child(3) {
 }
 
 td:nth-child(2n + 1) {
-  background-color: var(--separadores);
+  background-color: var( --branco-gelo);
 }
 
 footer {
